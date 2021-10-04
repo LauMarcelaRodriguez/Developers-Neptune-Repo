@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url("/images/background.png") no-repeat;
+    background-size: 130%;
+    background-position: bottom right;
+    font-family: sans-serif;
+    height: 106vh;
+}
+
+.box-NoteNew{ 
+    width: 320px;
+    height: 200px;
+    background: #ADD5F4;
+    color: #000;
+    top: 20%; 
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 10px 20px;  
+    border-radius: 20px;
+    border: 1px solid #01091E;
+}
